@@ -1,0 +1,30 @@
+# Backend
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+env/
+.env
+*.db
+uploads/
+*.pt
+*.onnx
+*.engine
+
+# Frontend
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
